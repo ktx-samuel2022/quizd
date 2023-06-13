@@ -1,0 +1,29 @@
+body{
+	background: rgb(153, 255, 179);
+}
+
+.login1{
+	background: rgb(255, 230, 0);
+	margin-top: 20px;
+	padding: 20px 50px;
+	float: none;
+	border-radius: 15px;
+}
+.login2{
+	background: rgb(255, 230, 0);
+	margin-top: 20px;
+	padding: 20px 50px;
+	float: none;
+	border-radius: 15px;
+}#output	{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #4494aa;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+h1{
+	width: 500px;
+	height: 40px;
+}
